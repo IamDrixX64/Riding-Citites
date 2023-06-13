@@ -134,6 +134,9 @@ p {
 }
 
 /***************/
+
+/* Class fourni à la réception du projet */
+
 .sectionLightGreyBackground {
 	background-color: var(--light-grey-color);
 }
